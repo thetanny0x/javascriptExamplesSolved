@@ -106,14 +106,14 @@
 //     alert("Invalid Input");
 // }
 
-// 10) multiplication table
+// 7) multiplication table
 
 // let inputnum = Number(prompt("enter a number which table u want"));
 // for (let i = 1 ; i <= 10 ; i++){
 //     console.log((i * inputnum));
 // } 
 
-// 22) nested condition challenge 
+// 8) nested condition challenge 
 
 // let age = Number(prompt("Your age"));
 // let salary = Number(prompt("Your salary"));
@@ -131,3 +131,4 @@
 //     }
     
 // }
+
