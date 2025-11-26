@@ -106,14 +106,14 @@
 //     alert("Invalid Input");
 // }
 
-// 7) multiplication table
+// 7) multiplication table ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 // let inputnum = Number(prompt("enter a number which table u want"));
 // for (let i = 1 ; i <= 10 ; i++){
 //     console.log((i * inputnum));
 // } 
 
-// 8) nested condition challenge 
+// 8) nested condition challenge ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 
 // let age = Number(prompt("Your age"));
 // let salary = Number(prompt("Your salary"));
@@ -131,4 +131,33 @@
 //     }
     
 // }
+// 9) Calculator modified ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
+
+// let input1 = Number(prompt("Enter a 1st number"));
+// let input2 = Number(prompt("Enter a 2nd number"));
+// let operator = prompt("Enter the operator (+ , * , /))")
+
+// function addition(input1, input2) {
+//     return input1 + input2;
+// }
+
+// function multiplication(input1, input2) {
+//     return input1 * input2;
+// }
+
+// function dividation(input1, input2) {
+//     return input1 / input2;
+// }
+
+// if (operator == "+") {
+//     alert(addition(input1, input2));
+// } else if (operator == "*") {
+//     alert(multiplication(input1, input2))
+// } else if (operator == "/") {
+//     alert(dividation(input1, input2));
+// }else{
+//     console.log("Invalid output");   
+// }
+
+
 
